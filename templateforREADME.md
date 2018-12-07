@@ -1,8 +1,9 @@
-miniProgram_tianjin
+
+## miniProgram_tianjin
 
 A mini program project for tianjin.
 
-项目目录
+## 项目目录
 
     ├───images                    图片资源
     ├───pages                       页面
@@ -18,7 +19,7 @@ A mini program project for tianjin.
     ├───project.config.json      项目配置文件 
     
 
-使用说明
+## 使用说明
 
     使用原生小程序组件开发；
     首先注册小程序账号并下载开发者工具；其次域名信息需要合法的，配置到小程序账号后台。如果不合法，在上传体验版本时手机上无法访问；
@@ -33,7 +34,7 @@ A mini program project for tianjin.
     login.wxss 页面样式， 单位rpx, 设计图应是750的标准
     
 
-表单验证插件
+## 表单验证插件
 
 使用文档 
 
